@@ -1,0 +1,36 @@
+<<<<<<< HEAD
+[
+    {
+        "fruit": "Apple",
+        "size": "Large",
+        "color": "Red"
+    },
+    {
+        "fruit": "Mango",
+        "size": "Medium",
+        "color": "Yellow"
+    },
+    {
+        "fruit": "Strawberry",
+        "size": "Small",
+        "color": "Red"
+    }
+=======
+[
+    {
+        "fruit": "Apple",
+        "size": "Large",
+        "color": "Red"
+    },
+    {
+        "fruit": "Mango",
+        "size": "Medium",
+        "color": "Yellow"
+    },
+    {
+        "fruit": "Strawberry",
+        "size": "Small",
+        "color": "Red"
+    }
+>>>>>>> 7bfe80e89d517042f9dc0639a74600cf983dfb74
+]

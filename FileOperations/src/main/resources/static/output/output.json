@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+[{"size":"Large","color":"Red","fruit":"Apple"},{"size":"Medium","color":"Yellow","fruit":"Mango","price":"70"},{"size":"Small","color":"Red","fruit":"Strawberry"}]
+=======
+[{"size":"Large","color":"Red","fruit":"Apple"},{"size":"small","color":"pink","fruit":"Mango"},{"size":"Small","color":"Red","fruit":"Strawberry"}]
+>>>>>>> 7bfe80e89d517042f9dc0639a74600cf983dfb74
